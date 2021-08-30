@@ -2,6 +2,7 @@
 
 Estou prestes a me formar em Analise e desenvolvimento de sistemas, e busco me aprimorar diariamente para poder impactar futuramente na area. 
 
+
                                           📚 Atualmente estou estudando 📚
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -27,3 +28,10 @@ Estou prestes a me formar em Analise e desenvolvimento de sistemas, e busco me a
 [![Twitter](https://img.shields.io/badge/RiivaldoJR-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/RiivaldoJR)](https://twitter.com/RiivaldoJR)
 [![Facebook](https://img.shields.io/badge/Rivas.Jr1-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://facebook.com/Rivas.Jr1/)](https://facebook.com/Rivas.Jr1/)
 ![Gmail](https://img.shields.io/badge/rivaldo.valhalla@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+<div>
+ <a href="https://github.com/Soturnus">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soturnus&show_icons=true&theme=radical">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soturnus&layout=compact">
+</div> 
+
