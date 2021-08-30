@@ -1,4 +1,4 @@
-                              👋 Olá, Meu nome é Rivaldo, mas pode me chamar de Soturno                                       
+                              👋 Olá, Meu nome é Rivaldo, mas gosto de ser chamado por Soturno                                       
 
 Estou prestes a me formar em Analise e desenvolvimento de sistemas, e busco me aprimorar diariamente para poder impactar futuramente na area. 
 
