@@ -31,7 +31,7 @@ Estou prestes a me formar em Analise e desenvolvimento de sistemas, e busco me a
 
 <div>
  <a href="https://github.com/Soturnus">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=soturnus&show_icons=true&theme=radical">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soturnus&layout=compact">
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=soturnus&show_icons=true&theme=radical">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soturnus&layout=compact">
 </div> 
 
