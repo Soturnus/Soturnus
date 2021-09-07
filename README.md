@@ -1,6 +1,6 @@
-                              👋 Olá, Meu nome é Rivaldo, mas gosto de ser chamado por Soturno                                       
+                       👋 Olá, Meu nome é Rivaldo, mas gosto de ser chamado por Soturno                                       
 
-Estou prestes a me formar em Analise e desenvolvimento de sistemas, e busco me aprimorar diariamente para poder impactar futuramente na area. 
+Estou prestes a me formar em Analise e desenvolvimento de sistemas, e busco me aprimorar diariamente para poder impactar na area. 
 
 
                                           📚 Atualmente estou estudando 📚
