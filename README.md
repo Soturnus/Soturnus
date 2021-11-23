@@ -1,6 +1,7 @@
 👋 Olá, Meu nome é Rivaldo, mas gosto de ser chamado por Soturno                                       
 
 Formado em Analise e Desenvolvimento de Sistemas
+
 Busco me aprimorar diariamente para poder desenvolver soluções tecnológicas praticas.
 
 
