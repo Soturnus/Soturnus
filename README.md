@@ -37,5 +37,7 @@ Busco me aprimorar diariamente para poder desenvolver soluções tecnológicas p
  <a href="https://github.com/Soturnus">
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=soturnus&show_icons=true&theme=merko">
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soturnus&layout=compact">
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soturnus)]
+
 </div> 
 
