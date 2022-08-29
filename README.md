@@ -4,6 +4,8 @@ Formado em Analise e Desenvolvimento de Sistemas
 
 Busco me aprimorar diariamente para poder desenvolver soluções tecnológicas praticas.
 
+Aqui você pode encontrar alguns projetos simples que utilizo para auxiliar pessoas proximas que buscam ingressar em TI, caso tenha interesse em algo mais especifico manda uma mensagem, se eu não souber a gente aprende junto! 
+
 👨‍💻 Trabalho com: 👨‍💻
 
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
