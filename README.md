@@ -1,4 +1,4 @@
-👋 Olá, Meu nome é Rivaldo, mas gosto de ser chamado por Soturno                                       
+👋 Olá, Meu nome é Rivaldo                                    
 
 Formado em Analise e Desenvolvimento de Sistemas
 
