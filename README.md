@@ -40,18 +40,30 @@
 ## 🧠 Skill Tree
 
 ### ⚔️ Backend
+![Java](https://img.shields.io/badge/Java-1f1f1f?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-1f1f1f?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
 ![NestJS](https://img.shields.io/badge/NestJS-1f1f1f?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![Go](https://img.shields.io/badge/Go-1f1f1f?style=for-the-badge&logo=go&logoColor=00ADD8)
 
 ### 🛡️ Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-1f1f1f?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-1f1f1f?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-1f1f1f?style=for-the-badge&logo=angular&logoColor=DD0031)
 
-### ⚙️ DevOps
+### ⚙️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-1f1f1f?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1f1f1f?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![Azure](https://img.shields.io/badge/Azure-1f1f1f?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+
+### 🔍 Observability
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-1f1f1f?style=for-the-badge&logo=opentelemetry&logoColor=FFFFFF)
+![Prometheus](https://img.shields.io/badge/Prometheus-1f1f1f?style=for-the-badge&logo=prometheus&logoColor=E6522C)
+![Grafana](https://img.shields.io/badge/Grafana-1f1f1f?style=for-the-badge&logo=grafana&logoColor=F46800)
 
 ### 🧬 Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-1f1f1f?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f1f1f?style=for-the-badge&logo=postgresql&logoColor=336791)
+![OracleDB](https://img.shields.io/badge/Oracle-1f1f1f?style=for-the-badge&logo=oracle&logoColor=F80000)
 
 ---
 ## 🏆 Achievements
